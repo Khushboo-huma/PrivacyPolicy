@@ -1,6 +1,6 @@
 # Just Status Policy
 
-This Privacy Policy was last modified on 24.05.2018.
+This Privacy Policy was last modified on 22.08.2018.
 
 Just Status ("us", "we", or "our") operates this App (the "App").
 This page informs you of our policies regarding the collection,
